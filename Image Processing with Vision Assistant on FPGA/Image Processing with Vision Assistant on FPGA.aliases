@@ -1,0 +1,24 @@
+[123]
+123 = "192.168.48.119"
+
+[My Computer]
+My Computer = "192.168.48.241"
+
+[NI cRIO-9033]
+NI cRIO-9033 = "0.0.0.0"
+
+[NI cRIO-9068]
+NI cRIO-9068 = "0.0.0.0"
+
+[NI sbRIO-9636]
+NI sbRIO-9636 = "0.0.0.0"
+
+[NI-cRIO-9012-8Slots]
+NI-cRIO-9012-8Slots = "192.168.48.140"
+
+[roboRIO-1256-FRC]
+roboRIO-1256-FRC = "192.168.48.235"
+
+[roboRIO-1256-FRC 2]
+roboRIO-1256-FRC 2 = "192.168.48.235"
+
